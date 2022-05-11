@@ -1,12 +1,16 @@
 .header a {
   padding: 2rem;
+  font-size: 1.2rem;
   
 
 }
-
+ .login {
+   align-items: right;
+ }
 .header {
   background-color: teal;
   text-align: center;
+  padding: 2rem;
 }
 
 .App {

@@ -8,9 +8,6 @@ function App() {
   return (
    <Router>
      <Header />
-     <main>
-     <Button variant='contained'>BAB</Button>
-     </main>
    </Router>
   );
 }
