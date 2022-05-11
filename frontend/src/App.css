@@ -1,5 +1,6 @@
 .header a {
   padding: 2rem;
+  background-color: teal;
 
 }
 .App {
@@ -9,6 +10,10 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+body {
+  background-color: #2C2F33 ;
 }
 
 @media (prefers-reduced-motion: no-preference) {
