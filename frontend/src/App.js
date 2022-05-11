@@ -6,7 +6,7 @@ import './App.css';
 
 function App() {
   return (
-   <Router className="App">
+   <Router>
      <Header />
      <main>
      <Button variant='contained'>BAB</Button>

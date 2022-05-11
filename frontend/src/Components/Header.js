@@ -8,6 +8,7 @@ export default function Header() {
             <NavLink to="/rent">Rent</NavLink>
             <NavLink to="/sell">Sell</NavLink>
             <NavLink to="/about">About Us</NavLink>
+            <NavLink to="/login">Login</NavLink>
         </div>
     )
 }
