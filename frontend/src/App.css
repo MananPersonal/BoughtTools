@@ -1,8 +1,14 @@
 .header a {
   padding: 2rem;
-  background-color: teal;
+  
 
 }
+
+.header {
+  background-color: teal;
+  text-align: center;
+}
+
 .App {
   text-align: center;
 }
