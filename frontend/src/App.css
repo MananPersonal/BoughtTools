@@ -29,4 +29,30 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
+.footerContainer {
+  background-color: #265b5f;
+  padding-bottom: 4rem;
+}
 
+.footer {
+  width: 80%;
+  height: 40vh;
+  background-color: #265b5f; 
+  color: #FFFDD0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.footerHeading {
+  display: flex;
+  flex-direction: column;
+  margin-right: 4rem; 
+}
+
+.footerHeading a {
+  color: #FFFDD0;
+  text-decoration: none;
+  margin-bottom: 0.5rem;
+}
